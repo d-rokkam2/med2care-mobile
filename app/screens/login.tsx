@@ -89,7 +89,7 @@ export default function LoginPage() {
           </TouchableOpacity>
           
           <TouchableOpacity style={styles.signUpButton} onPress={handleSignUp}>
-            <Text style={styles.signUpText}>Don't have an account? Sign Up</Text>
+            <Text style={styles.signUpText}>Sign Up</Text>
           </TouchableOpacity>
         </View>
       </View>
